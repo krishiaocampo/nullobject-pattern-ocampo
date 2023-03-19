@@ -1,3 +1,5 @@
+package nullobject;
+
 public class Person {
     String name;
     int age;
@@ -10,4 +12,3 @@ public class Person {
     }
 
 }
- 
